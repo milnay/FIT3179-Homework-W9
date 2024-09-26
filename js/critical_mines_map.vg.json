@@ -28,8 +28,8 @@
         "type": "geoshape", 
         "fill": "darkolivegreen", 
         "fillOpacity": 0.2,
-        "stroke": "black", 
-        "strokeOpacity": 0.3, 
+        "stroke": "darkgreen", 
+        "strokeOpacity": 0.5, 
         "strokeWidth": 0.5
       }
       
