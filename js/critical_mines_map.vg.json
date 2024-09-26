@@ -71,7 +71,8 @@
           "strokeOpacity": 0.6, 
           "strokeWidth": 0.4, 
           "fillOpacity": 0.9,
-          "tooltip": true
+          "tooltip": true, 
+          "size": 70
 
         },
         "encoding": {
